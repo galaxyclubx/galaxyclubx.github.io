@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/p/</loc>
+  </url>
+  
+  <url>
     <loc>https://example.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -38,6 +42,10 @@
                 hreflang="en"
                 href="https://example.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/</loc>
   </url>
   
   <url>
