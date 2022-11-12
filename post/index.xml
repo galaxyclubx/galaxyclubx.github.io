@@ -5,13 +5,14 @@
         <link>https://example.com/post/</link>
         <description>Recent content in Posts on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title></title>
-        <link>https://example.com/p/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 12 Nov 2022 17:33:32 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://example.com/p/test/</link>
+        <pubDate>Sat, 12 Nov 2022 17:33:32 +0800</pubDate>
         
-        <guid>https://example.com/p/</guid>
-        <description>&lt;h1 id=&#34;galaxy-club介绍&#34;&gt;Galaxy Club介绍&lt;/h1&gt;
+        <guid>https://example.com/p/test/</guid>
+        <description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;
 </description>
         </item>
         

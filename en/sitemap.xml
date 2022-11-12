@@ -3,30 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/p/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://example.com/</loc>
+    <lastmod>2022-11-12T17:33:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -46,6 +24,31 @@
   
   <url>
     <loc>https://example.com/post/</loc>
+    <lastmod>2022-11-12T17:33:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/p/test/</loc>
+    <lastmod>2022-11-12T17:33:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://example.com/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://example.com/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/"
+                />
   </url>
   
   <url>
